@@ -1,0 +1,4 @@
+date,description,amount,invoice_no,gst_amount,source
+2024-05-12,Payment to ABC Traders,50000,INV123,0,ledger
+2024-05-13,Received from Client X,100000,INV124,18000,ledger
+2024-05-14,Sale to XYZ Pvt Ltd,285000,,0,ledger

@@ -1,0 +1,4 @@
+date,description,amount,invoice_no,gst_amount,source
+2024-05-12,Debit to ABC TRD,50000,INV123,0,bank
+2024-05-13,Credit from Client X,100000,INV124,18000,bank
+2024-05-16,Debit to Unknown,90000,INV999,0,bank

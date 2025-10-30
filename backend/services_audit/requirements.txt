@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+motor
+pdf2image
+pytesseract
+pillow
+reportlab
+python-multipart
+aiofiles
+python-dotenv
