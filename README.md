@@ -24,7 +24,7 @@ AI-CFO fixes that by becoming a **smart financial co-founder** that:
 ## 🎥 Intro Video
 
 > Get a feel for AI-CFO:
-[![ZypherY](assets/demo/thumbnail.png)](https://youtu.be/OP2IdZhzOvU "Introducing ZypherY ai-cfo")
+[![ZypherY](assets//thumbnail.png)](https://youtu.be/OP2IdZhzOvU "Introducing ZypherY ai-cfo")
 
 ---
 
@@ -40,8 +40,8 @@ AI-CFO fixes that by becoming a **smart financial co-founder** that:
 ## 🖼️Demo Screenshots
 ![ai-cfo Chat](assets/demo/main_crop_chat.jpg)
 ![Dashboard](assets/demo/main_dashboard.jpg)
-![Investor Sync](assets/demo/Investor_Sync.jpg)
-Check out (https://github.com/Krishna-Parmar-001/ai_cfo_/tree/main/assets/demo) for more Demo Shoots.
+![Investor Sync](assets//Investor_Sync.jpg)
+Check out (https://github.com/Krishna-Parmar-001/ai_cfo_/tree/main/assets/) for more shots.
 ---
 
 ## ⚙️ Tech Stack
